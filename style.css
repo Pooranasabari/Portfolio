@@ -1,0 +1,179 @@
+.top{
+    display: flex;
+    color: white;
+    height: 75px;
+    width: auto;
+    position: fixed;
+    background-color: black;
+}
+#options{
+    display: flex;
+    justify-content: space-evenly;
+    height: 50px;
+    width: 450px;
+    margin-top: 25px;
+    margin-left: 750px;
+
+
+}
+a{
+    color: rgb(252, 11, 11);
+    text-decoration: none;
+
+   
+}
+#home{
+    height: 750px;
+    width: 1370px;
+    margin-top: 50px;
+    border: solid black;
+    text-align: center;
+    background: linear-gradient(rgb(181, 180, 233),rgb(201, 231, 238),rgb(196, 197, 214));
+}
+#quotes{
+    margin-top: 350px;
+}
+#bio{
+    height: 700px;
+    width: 1370px;
+    border: solid black;
+    background: linear-gradient(rgb(181, 180, 233),rgb(201, 231, 238),rgb(196, 197, 214));
+
+}
+#p2{
+    padding: 30px;
+    margin-left: 100px;
+    margin-top: 170px;
+    font-size: x-large;
+}
+img{
+    height: 450px;
+    margin-top: 10px;
+    margin-left: 65px;
+}
+#bio_main{
+    display: flex;
+    color: black;
+    padding-right: 100px;
+
+}
+#btn{
+    height: 50px;
+    width: 190px;
+    margin-left: 850px;
+    margin-top: -120px;
+}
+h2{
+    text-align: center;
+}
+#port{
+    height: 700px;
+    width: 1370px;
+    border: solid black;
+    background: linear-gradient(rgb(181, 180, 233),rgb(201, 231, 238),rgb(196, 197, 214));
+
+    text-align: justify;
+}
+#sub_port{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 140px;
+    background: linear-gradient(rgb(181, 180, 233),rgb(201, 231, 238),rgb(196, 197, 214));
+
+}
+#s1{
+    height: 70px;
+    width: 70px;
+    
+    
+}
+#s2{
+    border: 2px solid black;
+    height: 250px;
+    width: 200px;
+}
+h3{
+    text-align: center;
+}
+#l1{
+    text-align: center;
+    font-size: xx-large;
+}
+
+hr{
+    width: 700px;
+}
+#m4{
+    font-size: large;
+    text-justify: auto;
+    margin: 10px;
+}
+#skill{
+    
+    justify-content: space-between;
+    height: 700px;
+    width: 1370px;
+    border: solid black;
+    background: linear-gradient(rgb(181, 180, 233),rgb(201, 231, 238),rgb(196, 197, 214));
+
+    
+    text-align: justify;
+}
+#wo{
+    text-align: center;
+    margin-top: 60px;
+}
+#bo{
+    display: flex;
+    margin-top: 60px;
+    justify-content: space-evenly;
+    text-align: justify;
+}
+#title{
+    font-size: x-large;
+    margin-bottom: 50px;
+}
+#Contact{
+    height: 500px;
+    width: 1370px;
+    background: linear-gradient(rgb(181, 180, 233),rgb(201, 231, 238),rgb(196, 197, 214));
+    border: solid black;
+    text-align: center;
+    justify-content: space-between;
+}
+#x1{
+    height: 50px;
+    width: 30px;
+}
+#x2{
+    height: 50px;
+    width: 30px;
+}
+#x3{
+    height: 50px;
+    width: 30px;
+}
+#x4{
+    text-align: center;
+    font-size:xx-large;
+}
+#pro{
+    text-align: justify;
+}
+#down{
+    border: 2px solid black;
+    height: 200px;
+    width: 300px;
+    color: black;
+    background-color: white;
+}
+#down:hover{
+    color: darkblue;
+    background: red;
+}
+a:hover{
+    color: blue;
+    height: 90px;
+    
+
+}
